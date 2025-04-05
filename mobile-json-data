@@ -6,7 +6,7 @@
     "model_name": "iPhone 15 Pro",
     "color": "Titanium Black",
     "price": 999,
-    "image_link": "https://example.com/iphone15pro.jpg",
+    "image_link": "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-15-pro-1.jpg",
     "small_details": "6.1-inch Super Retina XDR, A17 Pro chip, 48MP camera."
   },
   {
@@ -16,7 +16,7 @@
     "model_name": "Galaxy S23 Ultra",
     "color": "Phantom Black",
     "price": 1199,
-    "image_link": "https://example.com/s23ultra.jpg",
+    "image_link": "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-s23-ultra-5g-1.jpg",
     "small_details": "6.8-inch Dynamic AMOLED, Snapdragon 8 Gen 2, 200MP camera."
   },
   {
@@ -26,7 +26,7 @@
     "model_name": "Pixel 8 Pro",
     "color": "Obsidian",
     "price": 899,
-    "image_link": "https://example.com/pixel8pro.jpg",
+    "image_link": "https://fdn2.gsmarena.com/vv/pics/google/google-pixel-8-pro-1.jpg",
     "small_details": "6.7-inch OLED, Tensor G3, 50MP main camera."
   },
   {
@@ -36,7 +36,7 @@
     "model_name": "11",
     "color": "Eternal Green",
     "price": 699,
-    "image_link": "https://example.com/oneplus11.jpg",
+    "image_link": "https://fdn2.gsmarena.com/vv/pics/oneplus/oneplus-11-2.jpg",
     "small_details": "6.7-inch Fluid AMOLED, Snapdragon 8 Gen 2, 50MP Hasselblad camera."
   },
   {
@@ -46,7 +46,7 @@
     "model_name": "13 Pro",
     "color": "Ceramic White",
     "price": 999,
-    "image_link": "https://example.com/xiaomi13pro.jpg",
+    "image_link": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-note-13-pro-5g-1.jpg",
     "small_details": "6.73-inch AMOLED, Snapdragon 8 Gen 2, 1-inch camera sensor."
   },
   {
@@ -56,7 +56,7 @@
     "model_name": "Xperia 1 V",
     "color": "Black",
     "price": 1299,
-    "image_link": "https://example.com/xperia1v.jpg",
+    "image_link": "https://fdn2.gsmarena.com/vv/pics/sony/sony-xperia-1-v-0.jpg",
     "small_details": "6.5-inch 4K OLED, Snapdragon 8 Gen 2, Zeiss optics."
   },
   {
@@ -66,7 +66,7 @@
     "model_name": "Phone (2)",
     "color": "White",
     "price": 599,
-    "image_link": "https://example.com/nothingphone2.jpg",
+    "image_link": "https://fdn2.gsmarena.com/vv/pics/nothing/nothing-phone2-1_.jpg",
     "small_details": "6.7-inch OLED, Snapdragon 8+ Gen 1, Glyph Interface."
   },
   {
@@ -76,7 +76,7 @@
     "model_name": "Edge 40 Pro",
     "color": "Interstellar Black",
     "price": 799,
-    "image_link": "https://example.com/motoedge40pro.jpg",
+    "image_link": "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-edge-40-pro-1.jpg",
     "small_details": "6.67-inch pOLED, Snapdragon 8 Gen 2, 165Hz refresh rate."
   },
   {
@@ -86,7 +86,7 @@
     "model_name": "Find X6 Pro",
     "color": "Black",
     "price": 1199,
-    "image_link": "https://example.com/oppofindx6pro.jpg",
+    "image_link": "https://fdn2.gsmarena.com/vv/pics/oppo/oppo-find-x6-pro-1.jpg",
     "small_details": "6.82-inch AMOLED, Snapdragon 8 Gen 2, Hasselblad triple camera."
   },
   {
@@ -96,7 +96,7 @@
     "model_name": "GT 3",
     "color": "Pulse White",
     "price": 549,
-    "image_link": "https://example.com/realmeGT3.jpg",
+    "image_link": "https://fdn2.gsmarena.com/vv/pics/realme/realme-gt-neo5-1.jpg",
     "small_details": "6.74-inch AMOLED, Snapdragon 8+ Gen 1, 240W fast charging."
   },
   {
@@ -106,7 +106,7 @@
     "model_name": "ROG Phone 7",
     "color": "Phantom Black",
     "price": 999,
-    "image_link": "https://example.com/rogphone7.jpg",
+    "image_link": "https://fdn2.gsmarena.com/vv/pics/asus/asus-rog-phone-7-1.jpg",
     "small_details": "6.78-inch AMOLED, Snapdragon 8 Gen 2, 165Hz refresh rate."
   },
   {
@@ -116,7 +116,7 @@
     "model_name": "X90 Pro",
     "color": "Legendary Black",
     "price": 1099,
-    "image_link": "https://example.com/vivox90pro.jpg",
+    "image_link": "https://fdn2.gsmarena.com/vv/pics/vivo/vivo-x90-pro-1.jpg",
     "small_details": "6.78-inch AMOLED, Dimensity 9200, Zeiss camera system."
   }
 ]
